@@ -48,6 +48,23 @@ PBS_Project/
 
 **Note:** All data is stored in memory and will be lost when the application is closed.
 
+## Run Command
+
+If you prefer to run the project from the command line, use the following commands:
+
+1. Open Command Prompt and navigate to the project directory:
+   ```sh
+   cd path\to\PBS_Project\src\pbs_project
+   ```
+2. Compile all Java files:
+   ```sh
+   javac *.java manager/*.java models/*.java services/*.java utils/*.java
+   ```
+3. Run the main class:
+   ```sh
+   java PBS_Project
+   ```
+
 ## Usage
 - Follow the on-screen menu to manage patients, physiotherapists, and appointments.
 - All data is stored in memory and will be lost when the application is closed.
