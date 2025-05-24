@@ -37,11 +37,16 @@ PBS_Project/
 - Any OS (Windows, Linux, macOS)
 - IDE (e.g., Visual Studio Code, IntelliJ IDEA, Eclipse)
 
-## How to Run
-1. Clone or download the repository.
-2. Open the project in your preferred Java IDE.
-3. Compile all `.java` files.
-4. Run `PBS_Project.java` to start the application.
+## How to Run the Project
+
+1. Ensure you have Java 17 or higher installed on your system.
+2. Open the project folder in your preferred Java IDE (such as Visual Studio Code, IntelliJ IDEA, or Eclipse).
+3. Locate the `PBS_Project.java` file in the root directory.
+4. Compile all Java files in the project. In most IDEs, this happens automatically when you run the main file.
+5. Run the `PBS_Project.java` file. This will launch the console-based application.
+6. Follow the on-screen menu instructions to manage patients, physiotherapists, appointments, and reports.
+
+**Note:** All data is stored in memory and will be lost when the application is closed.
 
 ## Usage
 - Follow the on-screen menu to manage patients, physiotherapists, and appointments.
