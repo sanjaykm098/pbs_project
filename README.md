@@ -75,5 +75,23 @@ If you prefer to run the project from the command line, use the following comman
 - User authentication and role-based access
 - Notification system for appointments
 
+## Author
+Sanjay Kumar - [GitHub Profile](https://github.com/sanjaykm098)
+
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+- Thanks to the open-source community for their contributions and support.
+## Contributing
+- Contributions are welcome! Please submit a pull request or open an issue for any enhancements or bug fixes.
+
+## Contact
+For any questions or feedback, please contact me at [sanjaykm.live@gmail.com](mailto:sanjaykm.live@gmail.com)
+
+## Issues
+If you encounter any issues while running the project, please check the following:
+- Ensure you have the correct version of Java installed.
+- Make sure all files are compiled without errors. 
+- If you have any specific errors, please open an issue on the GitHub repository with details about the error message and your environment.
+
